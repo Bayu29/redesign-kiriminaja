@@ -1,0 +1,199 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&family=Nunito+Sans:wght@400;600;700&display=swap");
+
+.theme-bg-light {
+  --bg-btn-regis: #F5F5F5;
+  --color-btn-regis : #000;
+}
+
+body{
+  font-family: 'Nunito Sans', sans-serif;
+}
+.navbar{
+  font-weight: 600;
+}
+.navbar-brand-logo {
+  width: 268px;
+  height: 75px;
+}
+#navbarSupportedContent{
+  margin-left:90px;
+}
+.navbar-nav > .nav-item {
+  margin-right: 15px;
+}
+.btn-register {
+  background-color: #F5F5F5;
+  font-weight: 600;
+  padding: 10px 55px;
+  border-radius: 10px;
+  margin-right: 31px;
+  border: none;
+}
+.btn-login {
+  background-color: #9B51E0;
+  color: #fff;
+  font-weight: 600;
+  padding: 10px 55px;
+  border-radius: 10px;
+  margin-right:20px;
+  border: none;
+}
+
+.card-slider-banner {
+  font-family: 'Montserrat', sans-serif;;
+  width: 1168px;
+  height: 433px;
+  background-color: #BC78FC !important;
+  border: none;
+  border-radius: 15px;
+  margin-top: 180px;
+  padding: 70px 75px;
+}
+
+.card-slider-banner .card-banner-title {
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.card-slider-banner .card-banner-subtitle{
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.card-slider-banner .card-banner img {
+  position: relative;
+  top: -265px;
+  right: 50px;
+}
+
+.cek-paket-card {
+  width: 1168px;
+  height: 197px;
+  border:none;
+  margin-top: 78px;
+  box-shadow: 0px 4px 4px 0px #000;
+  border-radius: 10px;
+}
+
+.cek-paket-card-header {
+  width: 1167px;
+  height: 84px;
+  background-color: #F4F3F3;
+  padding: 25px 40px;
+  border:none;
+}
+
+.cek-paket-card-body {
+  margin-top: 16px;
+  padding: 25px 40px;
+}
+
+.cek-paket-title {
+  font-weight: 700;
+  font-size: 18px;
+}
+.btn-purple{
+  background-color: #9B51E0;
+  padding: 10px 15px;
+  border-radius: 10px;
+  border:none;
+  color: #fff;
+  position: relative;
+  top: -15px;
+}
+
+.card-partner-section {
+  margin-top: 79px;
+}
+
+.card-partner {
+  width: 181px;
+  height: 91px;
+  box-shadow: 0px 4px 4px #000;
+  padding: 16px 14px;
+  border-radius: 15px;
+  margin-left:15px;
+}
+
+.card-services {
+  margin-top: 61px;
+  background-color: #9E37FF;
+  width: 1166px;
+  height: 623px;
+  border-radius: 10px;
+  padding: 25px 20px;
+}
+
+.banner-bawah {
+  width: 1168px;
+  height: 142px;
+  margin-top: 61px;
+}
+
+.featured-service {
+  margin-top: 58px;
+  margin-bottom: 50px;
+}
+
+.list-group{
+  margin-left: 50px;
+}
+
+.list-group .list-group-item {
+  border: 3px solid rgb(194, 194, 194) !important;
+  border-radius: 10px !important;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  width: 400px;
+  font-weight: 500;
+}
+
+.fa-circle-check{
+  color: #FF8030 !important;
+}
+
+.apk-downloader {
+  margin-top: 68px;
+  width: 1168px;
+}
+
+.footer-links li {
+  list-style: none;
+  margin-top: 15px;
+  margin-left: -30px !important;
+}
+
+.footer-links li a{
+  color: #000;
+  font-weight: 500px !important;
+}
+
+.service-group{
+  color: #fff;
+  margin-top: 25px;
+}
+.list-service {
+  margin-top: 30px;
+}
+
+.rounded {
+  height: 25px;
+  width: 25px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.service-item h5 {
+  font-weight: 700;
+  font-size: 26;
+}
+
+.service-item h6 {
+  font-weight: 600;
+  font-size: 20;
+}
+
+.service-item {
+  margin-top: 25px;
+}
